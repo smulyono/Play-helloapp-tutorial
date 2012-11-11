@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry external="true" kind="lib" path="/opt/play20/repository/local/play/play_2.9.1/2.0.4/jars/play_2.9.1.jar"/>
+	<buildpathentry external="true" kind="lib" path="/opt/play20/repository/local/org.specs2/specs2_2.9.1/1.9/jars/specs2_2.9.1.jar"/>
+	<buildpathentry external="true" kind="lib" path="/opt/play20/repository/local/org.seleniumhq.selenium/selenium-java/2.16.1/jars/selenium-java.jar"/>
+</buildpath>
